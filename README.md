@@ -12,5 +12,3 @@ Splitter is a personalized group expense tracking app designed with real-time up
 - Convex
 - Tailwind CSS
 
-## Author
-Rahul
